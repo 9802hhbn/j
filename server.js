@@ -18,14 +18,14 @@ setInterval(() => {
 
 
 const Eris = require("eris");
-var x5bzteam = new Eris("NzQxNDIzMDU2NTA0NzUwMTQ4.Xy3WBw.vyC-IoYZIHK7Mv2CqbrRhyG_CCU");
+var x5bzteam = new Eris("NzU0NDg1NzY3NDAwNTg3MzA3.X11boA.riL1qY3hcdDjKR9PH_ulpv3VxE4");
 
 x5bzteam.on("ready", () => {
     console.log("Yo! Changer [ON]");
     onstart();
 });
-x5bz = "672146095379578900";//  id   server
-nick = "XP > > UP";  //   moved    name
+x5bz = "624626050818768937";//  id   server
+nick = "MJ12 > > UP";  //   moved    name
 function onstart(){
     var v1 = nick.split('');
     var counter;
